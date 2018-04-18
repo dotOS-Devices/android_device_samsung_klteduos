@@ -26,3 +26,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := klteduos
 PRODUCT_NAME := aosp_klteduos
+
+PRODUCT_BUILD_PROP_OVERRIDES += \
+DEVICE_MAINTAINERS="Brunowp8" \
+DEVICE_MAINTAINERS="IKGapirov"
