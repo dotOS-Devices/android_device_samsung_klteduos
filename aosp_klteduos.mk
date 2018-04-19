@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/samsung/klteduos/full_klte.mk)
+$(call inherit-product, device/samsung/klteduos/full_klteduos.mk)
 
 # Inherit some common aosp stuff.
 $(call inherit-product, vendor/aosp/common.mk)
