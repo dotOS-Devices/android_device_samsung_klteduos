@@ -2,5 +2,17 @@
   {
     "repository": "android_device_samsung_klte-common",
     "target_path": "device/samsung/klte-common"
+  },
+  {
+    "repository": "android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common"
+  },
+  {
+    "repository": "proprietary_vendor_samsung_kltexx",
+    "target_path": "vendor/samsung"
+  },
+  {
+    "repository": "android_hardware_samsung_klte",
+    "target_path": "hardware/samsung"
   }
 ]
